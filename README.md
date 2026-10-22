@@ -3,8 +3,8 @@
 <p align="center"><b>Full-stack web & mobile engineer in Kenya. I build products people pay for: fintech, payments, SaaS and marketplaces.</b></p>
 
 <p align="center">
-<a href="mailto:adamfondo91@gmail.com"><img src="https://img.shields.io/badge/Hire_me-adamfondo91%40gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://fondo-full-stack-founder.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:fondoadam@f8ware.com"><img src="https://img.shields.io/badge/Hire_me-fondoadam%40f8ware.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://fondoadam.f8ware.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ## What I do
@@ -91,4 +91,4 @@ All live. Click any screenshot to try it.
 I take on freelance and contract work: new products from idea to launch, MVPs, and rescuing or extending existing apps.
 Most of my client and commercial code is private; I'm happy to walk you through it on a call.
 
-**📫 [adamfondo91@gmail.com](mailto:adamfondo91@gmail.com)** · **🌐 [Portfolio](https://fondo-full-stack-founder.vercel.app)**
+**📫 [fondoadam@f8ware.com](mailto:fondoadam@f8ware.com)** · **🌐 [Portfolio](https://fondoadam.f8ware.com)**
