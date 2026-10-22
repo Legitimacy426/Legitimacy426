@@ -3,7 +3,7 @@
 <p align="center"><b>Full-stack web & mobile engineer in Kenya. I build products people pay for: fintech, payments, SaaS and marketplaces.</b></p>
 
 <p align="center">
-<a href="mailto:fondoadam@f8ware.com"><img src="https://img.shields.io/badge/Hire_me-fondoadam%40f8ware.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:fondoadam@f8ware.com"><img src="https://img.shields.io/badge/Hire_me-fondoadam%40f8ware.com-0A0A0A?style=for-the-badge" alt="Email"></a>
 <a href="https://fondoadam.f8ware.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
