@@ -25,13 +25,13 @@ All live. Click any screenshot to try it.
 <a href="https://f8cutoutpro.vercel.app"><img src="assets/f8-escrow.png" alt="f8 escrow" width="100%"></a>
 
 **[f8 escrow](https://f8cutoutpro.vercel.app)**: Peer-to-peer crypto trading where every trade is locked in escrow.<br>
-<sub>Next.js · React · Convex · Better Auth · <a href="https://github.com/Legitimacy426/f8-escrow">details</a></sub>
+<sub>Next.js · React · Convex · Better Auth · <a href="https://github.com/fondoadam/f8-escrow">details</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://bizstudio-f8.vercel.app"><img src="assets/bizstudio.png" alt="BizStudio" width="100%"></a>
 
 **[BizStudio](https://bizstudio-f8.vercel.app)**: Sales, POS, M-Pesa, KRA eTIMS, stock and books for Kenyan businesses, in one place.<br>
-<sub>Next.js 16 · React · Convex · Better Auth · <a href="https://github.com/Legitimacy426/bizstudio">details</a></sub>
+<sub>Next.js 16 · React · Convex · Better Auth · <a href="https://github.com/fondoadam/bizstudio">details</a></sub>
 </td>
 </tr>
 <tr>
@@ -39,13 +39,13 @@ All live. Click any screenshot to try it.
 <a href="https://streamvibe-f8.vercel.app"><img src="assets/stream.png" alt="stream." width="100%"></a>
 
 **[stream.](https://streamvibe-f8.vercel.app)**: Sell tickets to your live stream. Get paid on M-Pesa.<br>
-<sub>Next.js · React · Convex · Clerk · <a href="https://github.com/Legitimacy426/stream-ticketing">details</a></sub>
+<sub>Next.js · React · Convex · Clerk · <a href="https://github.com/fondoadam/stream-ticketing">details</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://akiba-sacco.vercel.app"><img src="assets/akiba.png" alt="Akiba" width="100%"></a>
 
 **[Akiba](https://akiba-sacco.vercel.app)**: Every shilling, visible. A SACCO operating system for Kenyan SACCOs and chamas.<br>
-<sub>Expo · React Native · Convex · Better Auth · <a href="https://github.com/Legitimacy426/akiba-sacco">details</a></sub>
+<sub>Expo · React Native · Convex · Better Auth · <a href="https://github.com/fondoadam/akiba-sacco">details</a></sub>
 </td>
 </tr>
 <tr>
@@ -53,13 +53,13 @@ All live. Click any screenshot to try it.
 <a href="https://f8pay.vercel.app"><img src="assets/f8spot.png" alt="f8 spot" width="100%"></a>
 
 **[f8 spot](https://f8pay.vercel.app)**: Accept international payments on a page that's yours.<br>
-<sub>Next.js · React · Convex · Better Auth · <a href="https://github.com/Legitimacy426/f8spot">details</a></sub>
+<sub>Next.js · React · Convex · Better Auth · <a href="https://github.com/fondoadam/f8spot">details</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://atfarmfizo.vercel.app"><img src="assets/atfarm.png" alt="ATFARM-FIZO" width="100%"></a>
 
 **[ATFARM-FIZO](https://atfarmfizo.vercel.app)**: Certified seed, from the farm nearest you.<br>
-<sub>Expo · React Native · Convex · Better Auth · <a href="https://github.com/Legitimacy426/atfarm-fizo">details</a></sub>
+<sub>Expo · React Native · Convex · Better Auth · <a href="https://github.com/fondoadam/atfarm-fizo">details</a></sub>
 </td>
 </tr>
 </table>
