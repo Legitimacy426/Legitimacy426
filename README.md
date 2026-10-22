@@ -22,6 +22,20 @@ All live. Click any screenshot to try it.
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://f8ware.com"><img src="assets/f8ware.png" alt="f8ware" width="100%"></a>
+
+**[f8ware](https://f8ware.com)**: My studio. I design and build focused apps, websites and digital systems for ambitious teams.<br>
+<sub>React · Tailwind CSS · Framer Motion</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://discover.f8ware.com"><img src="assets/discover.png" alt="Discover" width="100%"></a>
+
+**[Discover](https://discover.f8ware.com)**: An app store for AI tools, generators, trackers and automations. Open one and use it straight away, free or paid.<br>
+<sub>Next.js · Convex · Better Auth · Vercel AI SDK</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://f8cutoutpro.vercel.app"><img src="assets/f8-escrow.png" alt="f8 escrow" width="100%"></a>
 
 **[f8 escrow](https://f8cutoutpro.vercel.app)**: Peer-to-peer crypto trading where every trade is locked in escrow.<br>
